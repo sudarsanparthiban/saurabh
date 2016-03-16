@@ -2,7 +2,7 @@ import java.util.*;
  
 class ReverseString
 {
-   public static void main(String args[])
+  aas public static void main(String args[])
    {
       String original, reverse = "";
       Scanner in = new Scanner(System.in);
@@ -17,4 +17,4 @@ class ReverseString
  
       System.out.println("Reverse of entered string is: "+reverse);
    }
-}
+}fweewwd
